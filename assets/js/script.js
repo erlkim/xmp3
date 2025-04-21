@@ -28,11 +28,11 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-3.jpg",
     posterUrl: "./assets/images/poster-3.jpg",
-    title: "Winter Meadow",
-    album: "No Spirit",
+    title: "Raiso Dadi Siji",
+    album: "Koplo",
     year: 2022,
-    artist: "No Spirit x  juniorodeo",
-    musicPath: "./assets/music/music-3.mp3",
+    artist: "Dike Sabrina",
+    musicPath: "https://dnma3z6c8ojev.cloudfront.net/songs/mp3_files/34187247/original/DIKE_SABRINA_-_RAISO_DADI_SIJI_Official_Music_Video_Sabar_Sauntoro_Sayang_converted.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-4.jpg",
