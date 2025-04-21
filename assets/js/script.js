@@ -19,11 +19,11 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-2.jpg",
     posterUrl: "./assets/images/poster-2.jpg",
-    title: "We Are Going To Be Ok (Master)",
-    album: "No Spirit",
+    title: "Nitip Kangen",
+    album: "Koplo",
     year: 2022,
-    artist: "No Spirit x Jhove",
-    musicPath: "./assets/music/music-2.mp3",
+    artist: "Dike Sabrina",
+    musicPath: "https://dnma3z6c8ojev.cloudfront.net/songs/mp3_files/34187246/original/DIKE_SABRINA_-_NITIP_KANGEN_Official_Music_Video_Wes_pirang_pirang_dino_ora_biso_turu_converted.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-3.jpg",
