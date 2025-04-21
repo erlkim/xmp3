@@ -14,7 +14,7 @@ const musicData = [
     album: "Full",
     year: 2025,
     artist: "Dike Sabrina x Kim",
-    musicPath: "https://d2a0js77mxcrjd.cloudfront.net/b93lt2%2Ffile%2Fec717b25ee8a3f7ccfe6a327e0fbeba4_195e7a8fcc13757b169b78696a70f775.mp3?response-content-disposition=inline%3Bfilename%3D%22ec717b25ee8a3f7ccfe6a327e0fbeba4_195e7a8fcc13757b169b78696a70f775.mp3%22%3B&response-content-type=audio%2Fmpeg&Expires=1745274650&Signature=dg9Fj~C4upzg-2ajvOGHxkrAkVhXMteSiGATBwgMbmGEV7nbWrO73nih1O~7v9eKQFe6WoHuUSZspDVtK5H~cosEB98HPtJhfSorya4DdgocWPF0qy2u4JDCOQsN8PjdVoj~KZBigXHwa1Py4jOse8XerNwlnDuukzcBGkXxngq0inS30eNe~H5qZJrBxg0pxI6bf--5Qaw9~nVAE6qwIHfNw2dKt6GAOF9D7C~-qa32ekYOnUL14uvqwvTAzqAEmIZ1IfIXcH4k-8PvQyk6naaW38C0pW35q-scmsIvlX5K7Bn7HIvieZV1yHxNBw2dagvznpZ-vBPCc~Y5wUYtGA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ",
+    musicPath: "https://od.lk/s/NjhfMTM2NDUyMzA0Xw/music-11.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-2.jpg",
