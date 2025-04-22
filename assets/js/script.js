@@ -73,11 +73,11 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Where I Found You",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./assets/music/music-5.mp3",
+    title: "BECAK DUTCH VOL 100",
+    album: "Sprint",
+    year: 2024,
+    artist: "Becak",
+    musicPath: "https://od.lk/s/NjhfMTM2NDU2MjcyXw/BECAK%20DUTCH%20VOL%20100.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-5.jpg",
