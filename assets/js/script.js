@@ -63,12 +63,12 @@ const musicData = [
   },
   {
     backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
-    title: "Where I Found You",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./assets/music/music-5.mp3",
+    posterUrl: "https://i.ytimg.com/vi/85QUBx03QRw/mqdefault.jpg",
+    title: "DIKE SABRINA - PELANGGARAN, DUMES | FULL ALBUM",
+    album: "sprinr",
+    year: 2023,
+    artist: "Dike Sabrina",
+    musicPath: "https://od.lk/s/NjhfMTM2NDU1Mjg4Xw/DIKE%20SABRINA%20-%20PELANGGARAN%2C%20DUMES%20FULL%20ALBUM%20TERBARU%202023.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-5.jpg",
