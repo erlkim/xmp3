@@ -9,7 +9,7 @@
 const musicData = [
   {
     backgroundImage: "./assets/images/poster-1.jpg",
-    posterUrl: "./assets/images/poster-1.jpg",
+    posterUrl: "https://i.ytimg.com/vi/LFkXgvts2JI/mqdefault.jpg",
     title: "Dike Sabrina Full Album",
     album: "Full",
     year: 2025,
