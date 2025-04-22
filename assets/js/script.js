@@ -45,7 +45,7 @@ const musicData = [
   },
   {
     backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
+    posterUrl: "https://i.ytimg.com/vi/_1P2LovDCZ8/mqdefault.jpg",
     title: "Tresno Tekane Mati",
     album: "Sprint",
     year: 2025,
