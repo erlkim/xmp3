@@ -54,12 +54,12 @@ const musicData = [
   },
   {
     backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
-    title: "Where I Found You",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./assets/music/music-5.mp3",
+    posterUrl: "https://i.ytimg.com/vi/q16zhZda7fM/mqdefault.jpg",
+    title: "SEPARUH NAFAS",
+    album: "Nirwana",
+    year: 2025,
+    artist: "Adinda Rahma",
+    musicPath: "https://od.lk/s/NjhfMTM2NDU1MjQzXw/SEPARUH%20NAFAS%20-%20Adinda%20Rahma%20OM%20NIRWANA%20COMEBACK.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-5.jpg",
