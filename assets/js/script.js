@@ -100,11 +100,11 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Where I Found You",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./assets/music/music-5.mp3",
+    title: "Radio X Kim",
+    album: "Radio",
+    year: 2025,
+    artist: "Sprint",
+    musicPath: "https://stream.zeno.fm/dluqa91qwdruv",
   },
 ];
 
