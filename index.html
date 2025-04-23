@@ -171,35 +171,6 @@
     </article>
   </main>
 
-  <svg class="visualizer-filter">
-                <defs>
-                    <filter id="gooey" x="-30%" y="-30%" width="160%" height="160%">
-                        <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
-                        <feColorMatrix in="blur" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 35 -20" result="gooey" />
-                        <feComposite in="SourceGraphic" in2="gooey" operator="atop" />
-                    </filter>
-                </defs>
-            </svg>
-            <div class="visualizer"></div>
-
-            <aside class="offcanvas scrollbar" id="offcanvas-stations">
-                <button data-close aria-label="close" class="btn">
-                    <svg class="i i-xmark" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"></path></svg>
-                </button>
-                <div class="offcanvas-content">
-                    <div class="stations column flex g-1" id="stations"></div>
-                </div>
-            </aside>
-
-            <aside class="offcanvas scrollbar" id="offcanvas-history">
-                <button data-close aria-label="close" class="btn">
-                    <svg class="i i-xmark" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"></path></svg>
-                </button>
-                <div class="offcanvas-content">
-                    <div class="stations column flex g-0.5" id="history"></div>
-                </div>
-            </aside>
-           </svg>
 
 
 
